@@ -1,0 +1,74 @@
+head	{
+	
+}
+
+h1	{
+	background-image: url(headertausta.jpg);
+	background-repeat: no-repeat;
+  background-attachment: fixed; 
+	background-size: cover;
+	text-align: center;
+	font-size:70px;
+	color: #db2e1a;
+	
+	text-shadow: 2px 2px 4px #db2e1a;	
+	
+}
+
+body	{
+	 background-image: url(tausta.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+  font-family: Hoefler Text,Baskerville Old Face,Garamond,Times New Roman,serif;
+  color: black;
+  
+}
+
+p	{
+	font-size: 40px;
+}
+
+p1, p2, p3, p4	{
+	color: black;
+	
+	font-size: 25px;
+}
+
+h2, h3, h4, h5	{
+	
+	font-size: 30px;
+	color: black;
+  text-shadow: 1px 1px 2px black, 0 0 25px red, 0 0 5px darkblue;
+	
+}
+
+h6	{
+	text-align: center;
+	font-size: 40px;
+	background-color:rgba(200, 90, 71, 0.5);
+}
+
+
+
+
+footer	{
+	text-align:center;
+}
+
+.col	{
+	background-color:rgba(200, 90, 71, 0.5);
+	padding: 10px;
+	text-align: center;
+}
+
+ol 	{
+	background-color:rgba(200, 90, 71, 0.5);
+	padding: 10px;
+	text-align: center;
+	font-size: 30px;
+}
+
+
+
+	
